@@ -5,6 +5,7 @@
 
 ### Connect with me:
 [<img align="left" alt="Hamidsadeghi | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/128/1384/1384063.png" />](https://instagram.com/horr.hamid)
-[<img align="left" alt="Hamidsadeghi | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />](https://www.linkedin.com/in/hamidrsadeghi)
-[<img align="left" alt="Hamidsadeghi | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/128/145/145812.png" />](https://twitter.com/horr_hamid)
+[<img align="left" alt="Hamidsadeghi | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />](https://www.linkedin.com/in/hamidrsadeghi)
+[<img align="left" alt="Hamidsadeghi | Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/128/145/145812.png" />](https://twitter.com/horr_hamid)
+[<img align="left" alt="Hamidsadeghi | Gmail" width="25px" src="https://cdn-icons-png.flaticon.com/128/888/888853.png" />](xhamid0011@gmail.com)
 
