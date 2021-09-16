@@ -21,7 +21,8 @@
 <p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=horrhamid&show_icons=true&theme=tokyonight" alt="Hamid sadeghi's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=horrhamid&theme=tokyonight" alt="Hamid sadeghi's Github Steak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horrhamid&layout=compact&theme=tokyonight" width="495px" height="195px" alt="Hamid sadeghi's Github Steak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horrhamid&layout=compact&theme=tokyonight" alt="Hamid sadeghi's Github Languages" />
 </p>
 
 
