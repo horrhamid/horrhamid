@@ -17,11 +17,12 @@
 <br>
 
 ### Github stats:
-<p align="center" width="250px">
+<div align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=horrhamid&show_icons=true&theme=tokyonight?count_private=true" alt="Hamid sadeghi's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=horrhamid&theme=tokyonight?count_private=true" alt="Hamid sadeghi's Github Steak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=horrhamid&layout=compact&theme=tokyonight" alt="Hamid sadeghi's Github Steak" />
 </p>
-
+</div>
 
 
