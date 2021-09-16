@@ -2,4 +2,6 @@
 
 - **I'm student at [Isfahan University of Technology](https://iut.ac.ir)**
 - I'm interested in software development  
-[<img align="left" alt="codeSTACKr | Instagram" width="25px" background-color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/horr.hamid)
+[<img align="left" alt="codeSTACKr | Instagram" width="25px" src="https://www.flaticon.com/free-icon/instagram_1384063" />](https://instagram.com/horr.hamid)
+
+https://www.flaticon.com/free-icon/instagram_1384063
