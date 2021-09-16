@@ -5,11 +5,12 @@
 
 ----
 ### Connect with me:
-[<img align="left" alt="Hamidsadeghi | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/128/1384/1384015.png" />](https://instagram.com/horr.hamid)
-[<img align="left" alt="Hamidsadeghi | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/128/1384/1384014.png" />](https://www.linkedin.com/in/hamidrsadeghi)
-[<img align="left" alt="Hamidsadeghi | Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/128/1384/1384017.png" />](https://twitter.com/horr_hamid)
-[<img align="left" alt="Hamidsadeghi | Gmail" width="25px" src="https://t3.ftcdn.net/jpg/04/40/77/38/240_F_440773899_XEkullxAZZVDtlq3NKNoeKL8X5lcVzio.jpg" />](xhamid0011@gmail.com)
+[<img align="left" alt="Hamidsadeghi | Instagram" width="25px" src="https://cdn-icons-png.flaticon.com/128/87/87390.png" />](https://instagram.com/horr.hamid)
+[<img align="left" alt="Hamidsadeghi | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/128/3669/3669739.png" />](https://www.linkedin.com/in/hamidrsadeghi)
+[<img align="left" alt="Hamidsadeghi | Twitter" width="25px" src="https://cdn-icons-png.flaticon.com/128/733/733635.png" />](https://twitter.com/horr_hamid)
+[<img align="left" alt="Hamidsadeghi | Gmail" width="25px" src="https://t3.ftcdn.net/jpg/03/89/55/00/240_F_389550026_AWht1xI4w1rsQogsMAyT39ttZ9j3ruwr.jpg" />](xhamid0011@gmail.com)
 
+<br>
 ----
 ### Github stats:
 <p align="center">
