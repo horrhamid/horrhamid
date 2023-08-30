@@ -2,7 +2,7 @@
 
 - **BSc Computer Engineering at [Isfahan University of Technology](https://iut.ac.ir)**
 - **MSc Game Develooment at [Iran University of Science and Technology](https://iust.ac.ir)**
-- I'm interested in software development 
+- interested in software engineering 
 <p align="left">
 <img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=horrhamid&style=flat-square&color=119721">
 </p>
